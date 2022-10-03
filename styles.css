@@ -5,7 +5,7 @@
 #survey-form {
     text-align: center;
     width: 40%;
-    background-color: grey;
+    background-color: lightblue;
     margin: auto;
     padding: 20px;
     border-color: aqua;
@@ -22,7 +22,7 @@ Label {
     background-color:#eceff1; 
     width: 25%;
     padding: 4px;
-    margin: 10px;
+    margin: 5px;
     
 }
 
